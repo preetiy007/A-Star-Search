@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/preeti/College/udacity/C++ Practise/ASearch/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9    -g   -std=gnu++17 -o CMakeFiles/AStarSearch.dir/Main.cpp.o -c \"/home/preeti/College/udacity/C++ Practise/ASearch/Main.cpp\"",
+  "file": "/home/preeti/College/udacity/C++ Practise/ASearch/Main.cpp"
+}
+]

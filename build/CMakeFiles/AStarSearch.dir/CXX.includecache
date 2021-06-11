@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/preeti/College/udacity/C++ Practise/ASearch/Main.cpp
+algorithm
+-
+fstream
+-
+iostream
+-
+sstream
+-
+string
+-
+vector
+-
+
